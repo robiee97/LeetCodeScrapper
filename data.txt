@@ -1,0 +1,51 @@
+LIST OF QUESTIONS : 
+1 Two Sum | https://leetcode.com/problems/two-sum
+2 Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array
+3 Remove Element | https://leetcode.com/problems/remove-element
+4 Search Insert Position | https://leetcode.com/problems/search-insert-position
+5 Maximum Subarray | https://leetcode.com/problems/maximum-subarray
+6 Plus One | https://leetcode.com/problems/plus-one
+7 Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array
+8 Pascal's Triangle | https://leetcode.com/problems/pascals-triangle
+9 Pascal's Triangle II | https://leetcode.com/problems/pascals-triangle-ii
+10 Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+11 Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+12 Two Sum II - Input array is sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+13 Majority Element | https://leetcode.com/problems/majority-element
+14 Rotate Array | https://leetcode.com/problems/rotate-array
+15 Contains Duplicate | https://leetcode.com/problems/contains-duplicate
+16 Contains Duplicate II | https://leetcode.com/problems/contains-duplicate-ii
+17 Shortest Word Distance | https://leetcode.com/problems/shortest-word-distance
+18 Missing Number | https://leetcode.com/problems/missing-number
+19 Move Zeroes | https://leetcode.com/problems/move-zeroes
+20 Third Maximum Number | https://leetcode.com/problems/third-maximum-number
+21 Find All Numbers Disappeared in an Array | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+22 Max Consecutive Ones | https://leetcode.com/problems/max-consecutive-ones
+23 Fibonacci Number | https://leetcode.com/problems/fibonacci-number
+24 K-diff Pairs in an Array | https://leetcode.com/problems/k-diff-pairs-in-an-array
+25 Array Partition I | https://leetcode.com/problems/array-partition-i
+26 Reshape the Matrix | https://leetcode.com/problems/reshape-the-matrix
+27 Shortest Unsorted Continuous Subarray | https://leetcode.com/problems/shortest-unsorted-continuous-subarray
+28 Can Place Flowers | https://leetcode.com/problems/can-place-flowers
+29 Maximum Distance in Arrays | https://leetcode.com/problems/maximum-distance-in-arrays
+30 Maximum Product of Three Numbers | https://leetcode.com/problems/maximum-product-of-three-numbers
+31 Maximum Average Subarray I | https://leetcode.com/problems/maximum-average-subarray-i
+32 Image Smoother | https://leetcode.com/problems/image-smoother
+33 Non-decreasing Array | https://leetcode.com/problems/non-decreasing-array
+34 Longest Continuous Increasing Subsequence | https://leetcode.com/problems/longest-continuous-increasing-subsequence
+35 Degree of an Array | https://leetcode.com/problems/degree-of-an-array
+36 1-bit and 2-bit Characters | https://leetcode.com/problems/1-bit-and-2-bit-characters
+37 Find Pivot Index | https://leetcode.com/problems/find-pivot-index
+38 Min Cost Climbing Stairs | https://leetcode.com/problems/min-cost-climbing-stairs
+39 Largest Number At Least Twice of Others | https://leetcode.com/problems/largest-number-at-least-twice-of-others
+40 Toeplitz Matrix | https://leetcode.com/problems/toeplitz-matrix
+41 Positions of Large Groups | https://leetcode.com/problems/positions-of-large-groups
+42 Flipping an Image | https://leetcode.com/problems/flipping-an-image
+43 Magic Squares In Grid | https://leetcode.com/problems/magic-squares-in-grid
+44 Maximize Distance to Closest Person | https://leetcode.com/problems/maximize-distance-to-closest-person
+45 Transpose Matrix | https://leetcode.com/problems/transpose-matrix
+46 Fair Candy Swap | https://leetcode.com/problems/fair-candy-swap
+47 Monotonic Array | https://leetcode.com/problems/monotonic-array
+48 Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity
+49 X of a Kind in a Deck of Cards | https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards
+50 Sort Array By Parity II | https://leetcode.com/problems/sort-array-by-parity-ii

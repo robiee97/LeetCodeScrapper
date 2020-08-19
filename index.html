@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeetCode Scrapper</title>
+
+    <style>
+        body {
+            background-color: #222;
+        }
+
+        .top {
+            background-color: #f0ad4e;
+        }
+
+        select {
+            color: azure;
+            background-color: #222;
+            margin-left: 35%;
+            width: 30%;
+            padding: 10px;
+        }
+
+        input[type='submit'] {
+            color: azure;
+            margin-left: 46%;
+            margin-top: 50px;
+            width: 100px;
+            height: 50px;
+        }
+
+        option[value='Easy'] {
+            background-color: #5cb85c;
+        }
+
+        option[value='Medium'] {
+            background-color: #f0ad4e;
+        }
+
+        option[value='Hard'] {
+            background-color: #d9534f;
+        }
+
+        option {
+            color: azure;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="top">
+        <h1 style="text-align: center">Search Your Favourite Questions Here</h1>
+    </div>
+    <form action="search">
+        <div>
+            <label for="dif" style="color: azure">
+                <h3 style="text-align: center">Choose Difficulty</h3>
+            </label>
+        </div>
+        <select name="dif" id="dif">
+            <option value="Easy">Easy</option>
+            <option value="Medium">Medium</option>
+            <option value="Hard">Hard</option>
+        </select>
+
+        <label for="topics" style="color: azure">
+            <h3 style="text-align: center">Choose Topics [Ctrl+Click for Multiple Select]</h3>
+        </label>
+        <select name="topics" id="topics" multiple required>
+            <option value="array">Array</option>
+            <option value="linked-list">Linked List</option>
+            <option value="dynamic-programming">Dynamic Programming</option>
+            <option value="stack">Stack</option>
+            <option value="greedy">Greedy</option>
+            <option value="queue">Queue</option>
+            <option value="binary-search-tree">BST</option>
+            <option value="string">String</option>
+            <option value="graph">Graph</option>
+        </select>
+        <br>
+        <div class="btn">
+            <input type="submit" value="search" style="background-color: #337ab7" />
+        </div>
+    </form>
+
+</body>
+
+</html>
